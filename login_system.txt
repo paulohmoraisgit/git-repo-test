@@ -1,1 +1,4 @@
 Login system
+Type your name
+Type your password
+Type your age
